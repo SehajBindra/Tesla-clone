@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    z-index: 100;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    background-color: white;
+    z-index: 100;
+    width: 100%;
+}
+
+
+.header_icon {
+    height: 40px;
+    object-fit: contain;
+    margin-left: 8px;
+   
+}
+
